@@ -94,6 +94,8 @@ This Challenge is graded based on the following criteria:
 
 * The walkthrough video must demonstrate all the prompts and functionality related to trucks and motorbikes working properly.
 
+https://drive.google.com/file/d/1Lo23U2IyV1OyYiUKXasL7N8NDa63ANm0/view
+
 ### Technical Acceptance Criteria: 40%
 
 * Satisfies all of the preceding acceptance criteria plus the following:
